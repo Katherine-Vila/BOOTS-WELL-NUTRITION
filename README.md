@@ -11,7 +11,7 @@
 
 ## Integrantes + Grupo Teórico
 
-- **Katherine Alexandra Pinto Vila** – Legajo: PV251591  
+- **Katherine Alexandra Pinto Vila** – Carnet: PV251591  
 **Grupo Teórico:** G01T – Lenguajes de Marcado y Estilo Web (LME404)  
 - **Docente:** Ingeniera Delmy Azucena Majano Menjívar
 
