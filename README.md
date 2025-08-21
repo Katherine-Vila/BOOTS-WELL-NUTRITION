@@ -27,17 +27,18 @@
 
 ## Licencia
 
-Este proyecto está bajo una **licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY‑NC‑SA 4.0)**.  
-[🔗 Ver detalles de la licencia](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Este obra está bajo una **licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY‑NC‑SA 4.0)**.  
+[🔗 Ver detalles de la licencia](https://creativecommons.org/licenses/by-nc/4.0/) 
 
 ---
 
 ## Estructura del Repositorio
 
-```plaintext
 📦 boots-well-nutrition
- ┣ 📂 src
- ┣ 📂 docs
- ┃ ┗ 📄 DocumentoProyecto.pdf (pendiente)
- ┣ 📄 README.md
- ┗ 📄 LICENSE
+ - **📂 Proyecto**
+- **📂 Documentacion**
+- **📂 Diagramas**
+- **📄 README.md**
+- **📄 LICENSE**
+
+
