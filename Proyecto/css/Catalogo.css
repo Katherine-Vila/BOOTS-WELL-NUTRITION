@@ -1,0 +1,139 @@
+/* Fuente y base */
+body {
+  margin: 0;
+  font-family: 'Lusitana', serif;
+  background-color: #fff;
+  
+}
+
+/* Navbar */
+.navbar {
+  background-color: #A6BF85;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  height: 120px; /* ALTURA AUMENTADA */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 20px;
+}
+
+.logo img {
+  width: 65px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.logo span {
+  font-weight: bold;
+  line-height: 1.2;
+  font-size: 18px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+nav ul li a:hover {
+  color: #3b5e2f;
+  transform: translateY(-4px);
+  font-weight: bold;
+}
+
+/* Efecto al hacer clic en el nav */
+nav ul li a:active {
+  transform: scale(0.97);
+}
+
+/* Íconos */
+.icons {
+  display: flex;
+  gap: 30px;
+  font-size: 26px;
+}
+
+.icon {
+  cursor: pointer;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+  color: #3b5e2f;
+}
+
+.icon:active {
+  transform: scale(0.95);
+}
+.grid-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 100px;
+      margin-top: 60px;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+
+    .card {
+      background-color: #d6ecb6;
+      border-radius: 12px;
+      text-align: center;
+      padding: 15px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+      transition: transform 0.2s ease;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+    }
+
+    .card img {
+      width: 100%;
+      height: 200px;
+      object-fit:contain;
+      border-radius: 10px;
+    }
+
+    .card h3 {
+      font-size: 16px;
+      margin: 10px 0 5px;
+    }
+
+    .card p {
+      font-size: 14px;
+      font-weight: bold;
+      margin: 5px 0;
+    }
+
+    .card button {
+      background-color: #6a8f55;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      padding: 8px 16px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: background-color 0.3s ease;
+    }
+
+    .card button:hover {
+      background-color: #577344;
+    }

@@ -1,0 +1,84 @@
+/* Fuente y base */
+body {
+  margin: 0;
+  font-family: 'Lusitana', serif;
+  background-color: #fff;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #A6BF85;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  height: 120px; /* ALTURA AUMENTADA */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 20px;
+}
+
+.logo img {
+  width: 65px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.logo span {
+  font-weight: bold;
+  line-height: 1.2;
+  font-size: 18px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+nav ul li a:hover {
+  color: #3b5e2f;
+  transform: translateY(-4px);
+  font-weight: bold;
+}
+
+/* Efecto al hacer clic en el nav */
+nav ul li a:active {
+  transform: scale(0.97);
+}
+
+/* Íconos */
+.icons {
+  display: flex;
+  gap: 30px;
+  font-size: 26px;
+}
+
+.icon {
+  cursor: pointer;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+  color: #3b5e2f;
+}
+
+.icon:active {
+  transform: scale(0.95);
+}
