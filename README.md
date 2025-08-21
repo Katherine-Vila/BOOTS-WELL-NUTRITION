@@ -24,7 +24,7 @@
   [🔗 Ver diseño en Figma](https://www.figma.com/design/forB8RrR43AjkTk0zWZRSE/Proyecto-Catedra---HTML?node-id=188-38&t=7OUSFOn8a39PvDjN-1)
 
 - ** Documento PDF:**  
-  _En desarrollo. Se agregará el enlace una vez esté listo._
+  _file:///E:/LME404/LME404%20G01T/Proyecto%20Catedra/Primer%20Avance/Documentacion/Proyecto.pdf._
 
 ---
 
