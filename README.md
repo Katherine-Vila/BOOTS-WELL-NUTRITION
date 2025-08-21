@@ -2,9 +2,12 @@
 
 ## Lenguajes y Tecnologías
 
-- HTML5  
-- CSS  
-- (Agregá otros si los usás, como JavaScript, frameworks, etc.)
+🛠️ Tecnologías Utilizadas
+
+- HTML, CSS, JavaScript
+- Figma (Diseño UI/UX)
+- GitHub (Control de versiones)
+- Trello (Documentación y gestión de tareas)
 
 ## Integrantes + Grupo Teórico
 
@@ -35,7 +38,7 @@ Este obra está bajo una **licencia de Creative Commons Reconocimiento-NoComerci
 ## Estructura del Repositorio
 
 📦 boots-well-nutrition
- - **📂 Proyecto**
+- **📂 Proyecto**
 - **📂 Documentacion**
 - **📂 Diagramas**
 - **📄 README.md**
