@@ -38,9 +38,9 @@ Este obra está bajo una **licencia de Creative Commons Reconocimiento-NoComerci
 ## Estructura del Repositorio
 
 📦 boots-well-nutrition
-- **📂 Proyecto**
-- **📂 Documentacion**
 - **📂 Diagramas**
+- **📂 Documentacion**
+- **📂 Proyecto**
 - **📄 README.md**
 - **📄 LICENSE**
 
